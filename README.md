@@ -12,6 +12,8 @@ If you want to help make sure to dm me on discord the link to join my server is 
 
 This is a temp readme ill remake it in a few days.
 
+The REAL first commit will be done tonight
+
 Thanks
 
 Jimmy aka NoxGamingQC
