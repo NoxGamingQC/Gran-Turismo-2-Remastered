@@ -1,4 +1,4 @@
-# Grand-Turismo-2 - Remastered
+# Gran Turismo 2 - Remastered
 
 **FAN REMASTERED**
 
@@ -16,4 +16,4 @@ The REAL first commit will be done tonight
 
 Thanks
 
-Jimmy aka NoxGamingQC
+- Jimmy
